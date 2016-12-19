@@ -19,6 +19,7 @@ public class Program {
             System.out.println(i);
         System.out.println("Prima modifica");
         System.out.println("Seconda modifica");
+        int i = 11 ; 
     }
     
 }
