@@ -18,8 +18,14 @@ public class Program {
         for(int i = 0; i <= 10 ; i++)
             System.out.println(i);
         System.out.println("Prima modifica");
+<<<<<<< HEAD
         System.out.println("Seconda modifica");
         int i = 11 ; 
+=======
+        System.out.println("Terza modifica");
+        System.out.println("Quinta modifica");
+        System.out.println("Quarta modifica");
+>>>>>>> FIX_BUG
     }
     
 }
